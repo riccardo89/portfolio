@@ -29,10 +29,13 @@ Financial-markets trading on iPhone and Apple Watch.
 
 **Videos**
 
-- [Have Fun With The Financial Markets](NENX%20-%20Have%20Fun%20With%20The%20Financial%20Markets.mp4)
-- [Fast, Simple Trading!](Nenx%20-%20Fast%2C%20Simple%20Trading%21.mp4)
-- [Quick financial mobile bets](nenx-quick-financial-mobile-bets.mp4)
-- [Apple Watch](nenx-apple-watch.mov)
+<video src="https://github.com/riccardo89/portfolio/raw/main/NENX%20-%20Have%20Fun%20With%20The%20Financial%20Markets.mp4" controls width="480"></video>
+
+<video src="https://github.com/riccardo89/portfolio/raw/main/Nenx%20-%20Fast%2C%20Simple%20Trading%21.mp4" controls width="480"></video>
+
+<video src="https://github.com/riccardo89/portfolio/raw/main/nenx-quick-financial-mobile-bets.mp4" controls width="480"></video>
+
+<video src="https://github.com/riccardo89/portfolio/raw/main/nenx-apple-watch.mov" controls width="480"></video>
 
 **Screens**
 
@@ -90,8 +93,9 @@ Online casino — web, iOS, and Mexico TV launch with Canelo Álvarez.
 
 **Videos**
 
-- [Canelo TV commercial (Mexico)](vale-mx-canelo-tv-commerical.mp4)
-- [Mexico launch — Canelo sparring](vale-mx-launch-mexico-canelo-sparring.mp4)
+<video src="https://github.com/riccardo89/portfolio/raw/main/vale-mx-canelo-tv-commerical.mp4" controls width="480"></video>
+
+<video src="https://github.com/riccardo89/portfolio/raw/main/vale-mx-launch-mexico-canelo-sparring.mp4" controls width="480"></video>
 
 **Screens**
 
@@ -109,7 +113,7 @@ News and feeds reader app.
 
 **Video**
 
-- [Teathers walkthrough](teathers.mov)
+<video src="https://github.com/riccardo89/portfolio/raw/main/teathers.mov" controls width="480"></video>
 
 **Screens**
 
@@ -148,7 +152,7 @@ iPhone & iPad game.
 
 **Video**
 
-- [Wanted Bounty Hunters Free](Wanted%20Bounty%20Hunters%20Free.mp4)
+<video src="https://github.com/riccardo89/portfolio/raw/main/Wanted%20Bounty%20Hunters%20Free.mp4" controls width="480"></video>
 
 **iPhone**
 
@@ -176,7 +180,7 @@ iPhone & iPad game.
 
 King Game Jam winner.
 
-- [Game jam highlight](gunzero-king-gamejam-winners.mp4)
+<video src="https://github.com/riccardo89/portfolio/raw/main/gunzero-king-gamejam-winners.mp4" controls width="480"></video>
 
 ---
 
@@ -220,7 +224,7 @@ Beach finder for iPhone and Apple Watch.
 
 iPhone travel app.
 
-- [World Beaches walkthrough](worldbeaches-travel-iphone-app.mp4)
+<video src="https://github.com/riccardo89/portfolio/raw/main/worldbeaches-travel-iphone-app.mp4" controls width="480"></video>
 
 ---
 
@@ -240,7 +244,7 @@ iPhone travel app.
 
 iPhone app features.
 
-- [Feature walkthrough](devreviews-iphone-app-features.mp4)
+<video src="https://github.com/riccardo89/portfolio/raw/main/devreviews-iphone-app-features.mp4" controls width="480"></video>
 
 ---
 
@@ -248,7 +252,7 @@ iPhone app features.
 
 Ruby on Rails backend — MMU final project.
 
-- [Project walkthrough](keepintouch-rubyonrails-backend-MMU-final-project.mp4)
+<video src="https://github.com/riccardo89/portfolio/raw/main/keepintouch-rubyonrails-backend-MMU-final-project.mp4" controls width="480"></video>
 
 ---
 
