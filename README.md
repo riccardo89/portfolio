@@ -4,6 +4,8 @@ A collection of apps, games, and experiences I've worked on across iOS, Android,
 
 ## Contents
 
+- [Gnosis Pay — crypto debit card](#gnosis-pay)
+- [Gnosis Chain — EVM-compatible blockchain](#gnosis-chain)
 - [Nenx — financial markets trading](#nenx)
 - [ProOptions — options betting](#prooptions)
 - [Vale — online casino](#vale)
@@ -23,19 +25,29 @@ A collection of apps, games, and experiences I've worked on across iOS, Android,
 
 ---
 
+## Gnosis Pay
+
+Crypto-native Visa debit card — spend stablecoins from a self-custody account.
+
+🔗 [gnosispay.com](https://gnosispay.com/)
+
+**ETHCC announcement — Martin Köppelmann**
+
+[![Gnosis Pay — ETHCC announcement](https://img.youtube.com/vi/wN9qMVkkjx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=wN9qMVkkjx4&t=590s)
+
+---
+
+## Gnosis Chain
+
+EVM-compatible Layer 1 blockchain, home of the GNO token.
+
+🔗 [gnosis.io/chain](https://www.gnosis.io/chain)
+
+---
+
 ## Nenx
 
 Financial-markets trading on iPhone and Apple Watch.
-
-**Videos**
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/NENX%20-%20Have%20Fun%20With%20The%20Financial%20Markets.mp4" controls width="480"></video>
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/Nenx%20-%20Fast%2C%20Simple%20Trading%21.mp4" controls width="480"></video>
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/nenx-quick-financial-mobile-bets.mp4" controls width="480"></video>
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/nenx-apple-watch.mov" controls width="480"></video>
 
 **Screens**
 
@@ -91,12 +103,6 @@ Options betting across iPhone and iPad.
 
 Online casino — web, iOS, and Mexico TV launch with Canelo Álvarez.
 
-**Videos**
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/vale-mx-canelo-tv-commerical.mp4" controls width="480"></video>
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/vale-mx-launch-mexico-canelo-sparring.mp4" controls width="480"></video>
-
 **Screens**
 
 <p>
@@ -110,10 +116,6 @@ Online casino — web, iOS, and Mexico TV launch with Canelo Álvarez.
 ## Tea / Teathers
 
 News and feeds reader app.
-
-**Video**
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/teathers.mov" controls width="480"></video>
 
 **Screens**
 
@@ -152,7 +154,7 @@ iPhone & iPad game.
 
 **Video**
 
-<video src="https://github.com/riccardo89/portfolio/raw/main/Wanted%20Bounty%20Hunters%20Free.mp4" controls width="480"></video>
+[![Wanted Bounty Hunters](https://img.youtube.com/vi/ETWCue-IWRI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ETWCue-IWRI)
 
 **iPhone**
 
@@ -180,7 +182,7 @@ iPhone & iPad game.
 
 King Game Jam winner.
 
-<video src="https://github.com/riccardo89/portfolio/raw/main/gunzero-king-gamejam-winners.mp4" controls width="480"></video>
+[![GunZero — game jam winner](https://img.youtube.com/vi/pB-tsFP_fck/maxresdefault.jpg)](https://www.youtube.com/watch?v=pB-tsFP_fck)
 
 ---
 
@@ -224,8 +226,6 @@ Beach finder for iPhone and Apple Watch.
 
 iPhone travel app.
 
-<video src="https://github.com/riccardo89/portfolio/raw/main/worldbeaches-travel-iphone-app.mp4" controls width="480"></video>
-
 ---
 
 ## Glow Guides
@@ -244,15 +244,11 @@ iPhone travel app.
 
 iPhone app features.
 
-<video src="https://github.com/riccardo89/portfolio/raw/main/devreviews-iphone-app-features.mp4" controls width="480"></video>
-
 ---
 
 ## KeepInTouch
 
 Ruby on Rails backend — MMU final project.
-
-<video src="https://github.com/riccardo89/portfolio/raw/main/keepintouch-rubyonrails-backend-MMU-final-project.mp4" controls width="480"></video>
 
 ---
 
